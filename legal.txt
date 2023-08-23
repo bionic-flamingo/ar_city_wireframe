@@ -7,9 +7,4 @@ Additional code from contributors and libraries in this export are licenced as f
 MIT:
 
 - glmatrix by toji (https://github.com/toji/gl-matrix)
-- hammer.js (https://hammerjs.github.io/)
 - colorRick (https://github.com/pandrr/colorRick)
-
-Public Domain:
-
-- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
